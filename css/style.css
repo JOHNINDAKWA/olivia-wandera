@@ -6369,9 +6369,7 @@ a.close.disabled {
 }
 
 .bg-primary2{
-  background: url(/img/footer.jpg);
-  background-position: bottom;
-  background-size: cover;
+  background-color: #ffbb50;
 }
 
 .bg-backround{
